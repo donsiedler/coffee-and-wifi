@@ -8,6 +8,11 @@ color: white;
 
 a {
     color: #ffc107;
+    text-decoration: none;
+}
+
+td {
+    color: white;
 }
 
 .jumbotron {
